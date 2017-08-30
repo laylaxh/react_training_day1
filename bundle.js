@@ -9788,7 +9788,6 @@ setInterval(function () {
         _react2.default.createElement(
             'span',
             null,
-            '$',
             new Date().toString()
         )
     );
